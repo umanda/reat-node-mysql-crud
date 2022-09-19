@@ -1,4 +1,4 @@
-##Basic Crud App
+## Basic Crud App
 
 --- 
 
@@ -6,3 +6,6 @@
 - React Router
 - Express Js
 - MySQL
+
+# Start the backend server / frontend
+$ yarn && yarn start
